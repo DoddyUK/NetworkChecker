@@ -6,4 +6,10 @@
     <string name="label_ip_version">IP Version</string>
     <string name="label_ip">IP Address</string>
     <string name="label_gateway">Gateway</string>
+
+    <!-- Accessibbility labels -->
+    <string name="wifi_device">WiFi Radio</string>
+    <string name="radio_device">Cellular Radio</string>
+    <string name="ethernet_device">Ethernet Device</string>
+    <string name="local_loopback">Local loopback</string>
 </resources>
