@@ -1,11 +1,16 @@
 <resources>
-    <string name="app_name">NetworkInfo</string>
+    <string name="app_name">Network Info</string>
+
+    <!-- Menu options -->
+    <string name="refresh">Refresh</string>
 
     <!-- Card labels -->
     <string name="label_interface_type">Interface Type</string>
     <string name="label_ip_version">IP Version</string>
     <string name="label_ip">IP Address</string>
     <string name="label_gateway">Gateway</string>
+
+    <!-- Interface types -->
 
     <!-- Accessibbility labels -->
     <string name="wifi_device">WiFi Radio</string>

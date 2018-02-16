@@ -20,19 +20,19 @@
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_marginEnd="16dp"
-            tools:src="@drawable/ic_signal_wifi_4_bar_black_24dp"
+            tools:src="@drawable/ic_network_wifi_black_24dp"
             android:contentDescription="@string/wifi_device"
             />
         <TextView
             style="@style/TextAppearance.AppCompat.Headline"
-            android:id="@+id/info_text"
+            android:id="@+id/lbl_interface_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_toEndOf="@id/img_icon"
             tools:text="Interface Name"/>
 
             <TableLayout
-                android:layout_below="@id/info_text"
+                android:layout_below="@id/lbl_interface_name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp">
